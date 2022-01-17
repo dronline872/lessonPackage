@@ -3,5 +3,5 @@ package lessonpackage
 import "fmt"
 
 func Test() {
-	fmt.Println("123")
+	fmt.Println("version 2")
 }
